@@ -105,16 +105,16 @@ funFact: "I debug in my sleep 😴"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" height="170" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jobin-biju&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jobin-biju&theme=tokyonight&hide_border=true" height="170" alt="streak stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobin-biju&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="languages graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jobin-biju&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -122,7 +122,7 @@ funFact: "I debug in my sleep 😴"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jobin-biju&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="trophy"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -130,7 +130,7 @@ funFact: "I debug in my sleep 😴"
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/jobin-biju/jobin-biju/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
